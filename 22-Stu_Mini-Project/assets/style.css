@@ -1,0 +1,101 @@
+header {
+  position: absolute;
+  top: 0%;
+    width: 100vw;
+    height: 50px;
+    background: rgb(8, 77, 2);
+}
+a {
+  position:absolute;
+  display:inline;
+  font-size: 20px;
+  color: white;
+}
+.github{
+  position: absolute;
+  top: 12%;
+  right: 12.5%;
+}
+.portfolio{
+  position: absolute;
+  top: 12%;
+  right: 7.5%;
+}
+.contact{
+  position: absolute;
+  top: 12%;
+  right: 3%;
+}
+.underline-header{
+  position: absolute;
+  top: 5%;
+  width: 100vw;
+  height: 10px;
+  background-color: tan
+}
+.my-new-website{
+  position: absolute;
+  top: 8%;
+  right: 44%;
+  font-size: 35px;
+  color: rgb(80, 48, 48); 
+}
+.image-1{
+  position: absolute;
+  right: 40%;
+  top: 17%;
+}
+.text-container{
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  margin-top: 545px;
+  font-size: 20px;
+}
+.big-orange-box{
+  position: absolute;
+  top: 73%;
+  height: 160px;
+  width: 100vw;
+  background-color: rgba(247, 162, 0, 0.31);
+  border-top: 4px solid orangered;
+}
+h4{
+  position: absolute;
+  top: 70%;
+  right: 48%;
+  color: black;
+  font-size: x-large;
+}
+input{
+  position: absolute;
+  top: 70%;
+  right: 50%;
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+
+h3{
+  position: absolute;
+  top: 89%;
+  right: 44.5%;
+  display: inline;
+  color: rgb(255, 255, 255);
+}
+.bottom-banner {
+  position: absolute;
+  width: 100vw;
+  height: 42px;
+  top: 90%;
+  background-color: rgb(8, 77, 2);
+}
+.small-bottom-header{
+  position: absolute;
+  top: 94%;
+  width: 100vw;
+  height: 17px;
+  background-color: tan
+}
